@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- Home -->
+  <url>
+    <loc>https://jovenesconfinanzas.com/</loc>
+    <lastmod>2025-08-15T17:45:00+01:00</lastmod>
+    <priority>1.00</priority>
+  </url>
+
+  <!-- Categorías (siempre con /) -->
+  <url>
+    <loc>https://jovenesconfinanzas.com/presupuesto-ahorro/</loc>
+    <lastmod>2025-08-15T17:45:00+01:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://jovenesconfinanzas.com/inversion-jovenes/</loc>
+    <lastmod>2025-08-15T17:45:00+01:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://jovenesconfinanzas.com/gestion-deudas/</loc>
+    <lastmod>2025-08-15T17:45:00+01:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://jovenesconfinanzas.com/creditos-prestamos/</loc>
+    <lastmod>2025-08-15T17:45:00+01:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://jovenesconfinanzas.com/curiosidades-financieras/</loc>
+    <lastmod>2025-08-15T17:45:00+01:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+
+  <!-- Páginas estáticas -->
+  <url>
+    <loc>https://jovenesconfinanzas.com/contacto.html</loc>
+    <lastmod>2025-08-15T17:45:00+01:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://jovenesconfinanzas.com/privacidad.html</loc>
+    <lastmod>2025-08-15T17:45:00+01:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://jovenesconfinanzas.com/cookies.html</loc>
+    <lastmod>2025-08-15T17:45:00+01:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://jovenesconfinanzas.com/sobre-nosotros.html</loc>
+    <lastmod>2025-08-15T17:45:00+01:00</lastmod>
+    <priority>0.60</priority>
+  </url>
+
+  <!-- Presupuesto y Ahorro (artículos) -->
+  <url>
+    <loc>https://jovenesconfinanzas.com/presupuesto-ahorro/como-hacer-un-presupuesto-para-estudiantes-universitarios.html</loc>
+    <lastmod>2025-08-15T17:45:00+01:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://jovenesconfinanzas.com/presupuesto-ahorro/tecnicas-para-ahorrar-dinero-rapido-en-casa.html</loc>
+    <lastmod>2025-08-15T17:45:00+01:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://jovenesconfinanzas.com/presupuesto-ahorro/apps-gratuitas-para-ahorrar-dinero-en-jovenes.html</loc>
+    <lastmod>2025-08-15T17:45:00+01:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://jovenesconfinanzas.com/presupuesto-ahorro/como-controlar-tus-gastos-diarios-estudiante-universitario.html</loc>
+    <lastmod>2025-08-15T17:45:00+01:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://jovenesconfinanzas.com/presupuesto-ahorro/metodos-para-crear-un-fondo-de-emergencia-siendo-joven.html</loc>
+    <lastmod>2025-08-15T17:45:00+01:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://jovenesconfinanzas.com/presupuesto-ahorro/ahorrar-para-comprar-tu-primer-coche.html</loc>
+    <lastmod>2025-08-15T17:45:00+01:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://jovenesconfinanzas.com/presupuesto-ahorro/ahorrar-para-un-viaje.html</loc>
+    <lastmod>2025-08-15T17:45:00+01:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+
+  <!-- Inversión para Jóvenes (artículos) -->
+  <url>
+    <loc>https://jovenesconfinanzas.com/inversion-jovenes/como-invertir-100-euros-siendo-principiante.html</loc>
+    <lastmod>2025-08-15T17:45:00+01:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://jovenesconfinanzas.com/inversion-jovenes/mejores-fondos-de-inversion-para-jovenes-novatos.html</loc>
+    <lastmod>2025-08-15T17:45:00+01:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://jovenesconfinanzas.com/inversion-jovenes/como-invertir-en-bolsa-con-poco-dinero-siendo-principiante.html</loc>
+    <lastmod>2025-08-15T17:45:00+01:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://jovenesconfinanzas.com/inversion-jovenes/como-empezar-a-invertir-en-criptomonedas-siendo-joven.html</loc>
+    <lastmod>2025-08-15T17:45:00+01:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://jovenesconfinanzas.com/inversion-jovenes/que-es-un-etf-por-que-es-ideal-para-jovenes.html</loc>
+    <lastmod>2025-08-15T17:45:00+01:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://jovenesconfinanzas.com/inversion-jovenes/riesgos-beneficios-invertir-dinero-jovenes.html</loc>
+    <lastmod>2025-08-15T17:45:00+01:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+
+  <!-- Gestión de Deudas (artículos) -->
+  <url>
+    <loc>https://jovenesconfinanzas.com/gestion-deudas/como-evitar-nuevas-deudas-siendo-joven.html</loc>
+    <lastmod>2025-08-15T17:45:00+01:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://jovenesconfinanzas.com/gestion-deudas/como-manejar-tus-deudas-siendo-joven.html</loc>
+    <lastmod>2025-08-15T17:45:00+01:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://jovenesconfinanzas.com/gestion-deudas/como-negociar-con-tus-acreedores-siendo-joven.html</loc>
+    <lastmod>2025-08-15T17:45:00+01:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://jovenesconfinanzas.com/gestion-deudas/como-salir-de-deudas-rapido-siendo-joven.html</loc>
+    <lastmod>2025-08-15T17:45:00+01:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://jovenesconfinanzas.com/gestion-deudas/consolidacion-de-deudas-para-jovenes.html</loc>
+    <lastmod>2025-08-15T17:45:00+01:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+
+  <!-- Créditos y Préstamos (artículos) -->
+  <url>
+    <loc>https://jovenesconfinanzas.com/creditos-prestamos/como-solicitar-prestamo-personal-joven.html</loc>
+    <lastmod>2025-08-15T17:45:00+01:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://jovenesconfinanzas.com/creditos-prestamos/tipos-prestamos-jovenes.html</loc>
+    <lastmod>2025-08-15T17:45:00+01:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://jovenesconfinanzas.com/creditos-prestamos/que-son-los-creditos-jovenes.html</loc>
+    <lastmod>2025-08-15T17:45:00+01:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://jovenesconfinanzas.com/creditos-prestamos/errores-pedir-prestamo-joven.html</loc>
+    <lastmod>2025-08-15T17:45:00+01:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+  <url>
+    <loc>https://jovenesconfinanzas.com/creditos-prestamos/como-calcular-tasa-interes-efectiva-prestamo.html</loc>
+    <lastmod>2025-08-15T17:45:00+01:00</lastmod>
+    <priority>0.64</priority>
+  </url>
+
+  <!-- Curiosidades Financieras (artículos nuevos) -->
+  <url>
+    <loc>https://jovenesconfinanzas.com/curiosidades-financieras/7-curiosidades-sobre-la-inflacion.html</loc>
+    <lastmod>2025-08-15T17:45:00+01:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://jovenesconfinanzas.com/curiosidades-financieras/dinero-que-no-es-dinero.html</loc>
+    <lastmod>2025-08-15T17:45:00+01:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+  <url>
+    <loc>https://jovenesconfinanzas.com/curiosidades-financieras/curiosidades-sobre-los-billetes.html</loc>
+    <lastmod>2025-08-15T17:45:00+01:00</lastmod>
+    <priority>0.70</priority>
+  </url>
+
+</urlset>

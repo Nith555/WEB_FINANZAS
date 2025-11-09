@@ -1,0 +1,6 @@
+# /robots.txt — jovenesconfinanzas.com
+User-agent: *
+Allow: /
+
+# Indica el sitemap principal
+Sitemap: https://jovenesconfinanzas.com/sitemap.xml
